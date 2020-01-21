@@ -8,7 +8,9 @@ namespace My_First_GIT_Project
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("This is ISM 4300");
+            Console.WriteLine("Press any Key to continue...");
+            Console.ReadKey(true);
+
         }
     }
 }
